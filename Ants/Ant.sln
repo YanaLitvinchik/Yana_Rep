@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{5BDD5686-09B8-4B40-BE5E-2DCC127BF21B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ant", "..\Ants\Ant\Ant.csproj", "{49E8F5B5-9CDF-40AA-B41E-5BA0E8E076BD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ant", "Ant\Ant.csproj", "{49E8F5B5-9CDF-40AA-B41E-5BA0E8E076BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5BDD5686-09B8-4B40-BE5E-2DCC127BF21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5BDD5686-09B8-4B40-BE5E-2DCC127BF21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5BDD5686-09B8-4B40-BE5E-2DCC127BF21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5BDD5686-09B8-4B40-BE5E-2DCC127BF21B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{49E8F5B5-9CDF-40AA-B41E-5BA0E8E076BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{49E8F5B5-9CDF-40AA-B41E-5BA0E8E076BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49E8F5B5-9CDF-40AA-B41E-5BA0E8E076BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
